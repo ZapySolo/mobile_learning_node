@@ -1,0 +1,22 @@
+{
+  "name": "mobile_learning_node",
+  "version": "1.0.0",
+  "description": "Mobile Learning - Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZapySolo/mobile_learning_node.git"
+  },
+  "author": "Zapy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZapySolo/mobile_learning_node/issues"
+  },
+  "homepage": "https://github.com/ZapySolo/mobile_learning_node#readme",
+  "dependencies": {
+    "joi": "^17.3.0"
+  }
+}
